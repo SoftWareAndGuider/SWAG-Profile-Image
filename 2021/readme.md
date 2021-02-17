@@ -1,2 +1,2 @@
 # SWAG Profile 2021
-Designed by Taedi
+Copyright (c) SWAG Team / Teaddy (@seomingyu11)
